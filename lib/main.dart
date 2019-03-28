@@ -101,7 +101,7 @@ class _MyHomePageState extends State<MyHomePage> {
 
       bottomNavigationBar: BottomNavigationBar(
         currentIndex: 0,
-        backgroundColor: Colors.black,
+        iconSize: 20,
         items: [
           BottomNavigationBarItem(
               backgroundColor: Colors.black,
